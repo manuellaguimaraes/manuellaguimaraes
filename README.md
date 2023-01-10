@@ -1,7 +1,7 @@
 ## Hi, there! I'm Manuella Guimarães
 
-- 🔭 I’m currently working on front-end development
-- 🌱 Learning react 
+- 🔭 I’m currently working on fullstack development
+- 🌱 Learning Next.js
 - 😄 Pronouns: she/her
 
 ##
