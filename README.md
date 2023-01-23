@@ -1,6 +1,6 @@
 ## Hi, there! I'm Manuella Guimarães
 
-- 🔭 I’m currently working on fullstack development
+- 🔭 I’m currently looking for a new opportunity in software development, mainly in frontend
 - 🌱 Learning Next.js
 - 😄 Pronouns: she/her
 
